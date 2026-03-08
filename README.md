@@ -99,3 +99,12 @@ Developed by EZ
 GitHub: https://github.com/setvotka
 
 Discord:setvotka1org
+## 📜 License
+
+Copyright (c) 2026 EZ
+
+All Rights Reserved.
+
+This project and its source code are protected by copyright law.  
+No part of this project may be copied, modified, or distributed  
+without permission from the author.
